@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\bin\Debug\net7.0\00CreatingNewThreadName.exe
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\bin\Debug\net7.0\00CreatingNewThreadName.deps.json
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\bin\Debug\net7.0\00CreatingNewThreadName.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\bin\Debug\net7.0\00CreatingNewThreadName.dll
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\bin\Debug\net7.0\00CreatingNewThreadName.pdb
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.dll
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\refint\00CreatingNewThreadName.dll
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.pdb
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\00CreatingNewThreadName.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\00CreatingNewThreadName\obj\Debug\net7.0\ref\00CreatingNewThreadName.dll

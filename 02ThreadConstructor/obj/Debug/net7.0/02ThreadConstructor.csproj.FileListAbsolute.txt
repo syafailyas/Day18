@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\bin\Debug\net7.0\02ThreadConstructor.exe
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\bin\Debug\net7.0\02ThreadConstructor.deps.json
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\bin\Debug\net7.0\02ThreadConstructor.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\bin\Debug\net7.0\02ThreadConstructor.dll
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\bin\Debug\net7.0\02ThreadConstructor.pdb
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.dll
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\refint\02ThreadConstructor.dll
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.pdb
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\02ThreadConstructor.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\02ThreadConstructor\obj\Debug\net7.0\ref\02ThreadConstructor.dll

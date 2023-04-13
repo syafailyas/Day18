@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\bin\Debug\net7.0\14TaskWhenAll.exe
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\bin\Debug\net7.0\14TaskWhenAll.deps.json
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\bin\Debug\net7.0\14TaskWhenAll.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\bin\Debug\net7.0\14TaskWhenAll.dll
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\bin\Debug\net7.0\14TaskWhenAll.pdb
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.dll
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\refint\14TaskWhenAll.dll
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.pdb
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\14TaskWhenAll.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\14TaskWhenAll\obj\Debug\net7.0\ref\14TaskWhenAll.dll

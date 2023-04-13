@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\bin\Debug\net7.0\01WithThreadJoin.exe
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\bin\Debug\net7.0\01WithThreadJoin.deps.json
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\bin\Debug\net7.0\01WithThreadJoin.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\bin\Debug\net7.0\01WithThreadJoin.dll
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\bin\Debug\net7.0\01WithThreadJoin.pdb
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.dll
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\refint\01WithThreadJoin.dll
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.pdb
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\01WithThreadJoin.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\01WithThreadJoin\obj\Debug\net7.0\ref\01WithThreadJoin.dll

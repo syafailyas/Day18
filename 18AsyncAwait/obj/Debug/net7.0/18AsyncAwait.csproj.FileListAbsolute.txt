@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\bin\Debug\net7.0\18AsyncAwait.exe
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\bin\Debug\net7.0\18AsyncAwait.deps.json
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\bin\Debug\net7.0\18AsyncAwait.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\bin\Debug\net7.0\18AsyncAwait.dll
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\bin\Debug\net7.0\18AsyncAwait.pdb
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.dll
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\refint\18AsyncAwait.dll
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.pdb
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\18AsyncAwait.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\18AsyncAwait\obj\Debug\net7.0\ref\18AsyncAwait.dll

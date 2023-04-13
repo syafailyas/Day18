@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\bin\Debug\net7.0\13TaskContinueWith.exe
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\bin\Debug\net7.0\13TaskContinueWith.deps.json
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\bin\Debug\net7.0\13TaskContinueWith.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\bin\Debug\net7.0\13TaskContinueWith.dll
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\bin\Debug\net7.0\13TaskContinueWith.pdb
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.dll
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\refint\13TaskContinueWith.dll
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.pdb
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\13TaskContinueWith.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\13TaskContinueWith\obj\Debug\net7.0\ref\13TaskContinueWith.dll

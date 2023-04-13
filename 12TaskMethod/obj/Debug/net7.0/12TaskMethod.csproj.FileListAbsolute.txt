@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\bin\Debug\net7.0\12TaskMethod.exe
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\bin\Debug\net7.0\12TaskMethod.deps.json
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\bin\Debug\net7.0\12TaskMethod.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\bin\Debug\net7.0\12TaskMethod.dll
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\bin\Debug\net7.0\12TaskMethod.pdb
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.dll
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\refint\12TaskMethod.dll
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.pdb
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\12TaskMethod.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 18\12TaskMethod\obj\Debug\net7.0\ref\12TaskMethod.dll
