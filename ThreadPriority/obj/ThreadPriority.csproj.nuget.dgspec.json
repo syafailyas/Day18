@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
         "projectName": "ThreadPriority",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

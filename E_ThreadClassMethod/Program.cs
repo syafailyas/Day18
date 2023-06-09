@@ -18,7 +18,7 @@ class Program
         Console.WriteLine($"Is newThread alive? {newThread.IsAlive}");
 
         // Set newThread priority.
-        newThread.Priority = ThreadPriority.AboveNormal;
+        newThread.Priority = ThreadPriority.Highest;
 
         // Set newThread as a background thread.
         newThread.IsBackground = true;
