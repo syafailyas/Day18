@@ -10,8 +10,8 @@ public static class Program
 		var stopwatch = new Stopwatch();
 		stopwatch.Start();
 
-		Thread thread2 = new Thread(DoTaskTwo);
 		Thread thread1 = new Thread(DoTaskOne);
+		Thread thread2 = new Thread(DoTaskTwo);
 		
 		thread1.Start();
 		thread2.Start();

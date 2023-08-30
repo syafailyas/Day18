@@ -15,7 +15,8 @@ class Program
 
 		Console.WriteLine(string.Join(", ", results));
 
-		int t1 = await Task.Run(() => MultiplyByTwoAsync(5));
+		Task<int> t1 = Task.Run(() => MultiplyByTwoAsync(5));
+		await t1;
 	}
 	static async Task<int> MultiplyByTwoAsync(int number)
 	{

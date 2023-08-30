@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
         "projectName": "RaceConditionThread",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
