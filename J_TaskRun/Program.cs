@@ -7,10 +7,10 @@ class Program
 	{
 		Task task = new Task(() => Console.WriteLine("Hello, Task Start!"));
 		task.Start();
-		task.Wait(); // Wait for the task to complete
+		task.Wait(); 
 
 		Task task1 = Task.Run(() => Console.WriteLine("Hello, Task.Run!"));
-		task1.Wait(); // Wait for the task to complete
+		task1.Wait(); 
 		
 		Task.Run(() => Console.WriteLine("Hello, Task Run Immediately!")); // Same as above
 	}

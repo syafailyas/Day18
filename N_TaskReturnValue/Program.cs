@@ -2,17 +2,18 @@
 
 class Program
 {
-    static void Main()
-    {
-        //Returning values from tasks using Task<TResult>
-        Task<int> task = Task.Run(() => Add(3, 4));
+	static void Main()
+	{
+		int x = 3;
+		int y = 4;
+		Task<int> task = Task.Run(()=>Add(x,y));
 
-        int result = task.Result;
-        Console.WriteLine($"Result: {result}");
-    }
-
-    static int Add(int a, int b)
-    {
-        return a + b;
-    }
+		int result = task.Result;
+		Console.WriteLine($"Result: {result}");
+	}
+	
+	static int Add(int a, int b)
+	{
+		return a + b;
+	}
 }

@@ -17,6 +17,9 @@ class Program
 		thread.Start();
 		secondThread.Start();
 
+		thread.Join();
+		secondThread.Join();
+		
 		Console.WriteLine("Main thread exiting.");
 	}
 

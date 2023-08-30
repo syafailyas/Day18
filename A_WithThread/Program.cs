@@ -16,8 +16,8 @@ public static class Program
 		thread1.Start();
 		thread2.Start();
 
-		//thread1.Join();
-		//thread2.Join();
+		thread1.Join();
+		thread2.Join();
 
 		stopwatch.Stop();
 

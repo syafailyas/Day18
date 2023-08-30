@@ -13,7 +13,7 @@ class Program
     static async Task DoWorkAsync()
     {
         Console.WriteLine("Starting the asynchronous work...");
-        await Task.Delay(5000); // Simulates an async operation taking 2 seconds
+        await Task.Delay(2000); // Simulates an async operation taking 2 seconds
         Console.WriteLine("Asynchronous work completed.");
     }
 }

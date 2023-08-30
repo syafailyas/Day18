@@ -6,8 +6,8 @@ class Program
     static void Main()
     {
         Task task = new Task(() => Console.WriteLine("Hello, Task!"));
-        task.Start();
+        task.Start(); //Thread.Start();
 
-        task.Wait(); // Wait for the task to complete
+        task.Wait(); //Thread.Join();
     }
 }
