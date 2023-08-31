@@ -9,8 +9,6 @@
 			SomeMethod();
 
 			Console.WriteLine("Main Method End");
-			Console.ReadLine();
-			Console.WriteLine("Main Method End");
 		}
 
 		public async static void SomeMethod()

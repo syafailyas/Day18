@@ -26,11 +26,14 @@ class Program
 		t4.Start();
 
 
-		Thread t5 = new Thread( () => DoWorkWithParameter("parameter2"));
+		Thread t5 = new Thread( () => DoWorkWithParameter("parameter2")); //lambda expression
 		t5.Start();
 
 		Thread t6 = new Thread(DoWorkWithParameter);
-		t6.Start("parameter3");
+		t6.Start("parameter23");
+		
+		Thread t7 = new Thread(DoWorkWithParameter);
+		t7.Start("parameter233");
 	}
 
 	static void DoWorkSimple()
