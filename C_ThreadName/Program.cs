@@ -5,15 +5,15 @@ class Program
 {
 	static void Main()
 	{
-		// Create a new thread
+
 		Thread thread = new Thread(DoWork);
 		Thread secondThread = new Thread(DoWork);
 
-		// Set some properties
+
 		thread.Name = "Worker Thread";
 		secondThread.Name = "Second Worker Thread";
 
-		// Start the thread
+
 		thread.Start();
 		secondThread.Start();
 

@@ -30,14 +30,14 @@ class Program
     static void DoWork(string taskName)
     {
         Console.WriteLine($"{taskName} started");
-        Thread.Sleep(2000); // Simulate work by waiting for 2 seconds
+        Thread.Sleep(2000); 
         Console.WriteLine($"{taskName} completed");
     }
 
     static async Task DoWorkAsync(string taskName)
     {
         Console.WriteLine($"{taskName} started");
-        await Task.Delay(2000); // Simulate work by waiting for 2 seconds asynchronously
+        await Task.Delay(2000); 
         Console.WriteLine($"{taskName} completed");
     }
 }
