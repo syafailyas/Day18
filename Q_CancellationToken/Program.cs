@@ -26,6 +26,6 @@ static async Task DoWorkAsync(CancellationToken token)
         token.ThrowIfCancellationRequested();
 
         Console.WriteLine($"Work in progress: {i * 10}%");
-        await Task.Delay(500, token);
+        await Task.Delay(20000,token);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wXFFNn0j7lJcsyTyNU0F7Y4DLST2IWd7y36DSXtkfZkicj9XQg9ExoZKVS6ADmEi7LFc3FPL7ru68SdrwrlMWw==",
+  "dgSpecHash": "ia5eTXFgHDcINUiDnB8C0TvldQTEktUZr2/dEAXLM+mm2jdmL8Q+tk/GTS7m3FbbLhQPSGPfWWRaKyRRb2/X7w==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
         "projectName": "AsynchronousSynchronous",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

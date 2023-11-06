@@ -18,7 +18,7 @@ class Program
 		t2.Start("parameter");
 
 
-		Thread t3 = new Thread(new ThreadStart(DoWorkSimple), 1024 * 1024); // 1 MB stack size
+		Thread t3 = new Thread(new ThreadStart(DoWorkSimple), 1024 * 1024 ); // 1 MB stack size
 		t3.Start();
 
 		Thread t4 = new Thread(new ThreadStart(DoWorkSimple));

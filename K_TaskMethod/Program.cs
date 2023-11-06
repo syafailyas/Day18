@@ -7,8 +7,8 @@ class Program
         Task task = Task.Run(() => Console.WriteLine("Hello from Task!"));
         task.Wait();
 
-        Console.WriteLine($"IsCompleted: {task.IsCompleted}");
-        Console.WriteLine($"IsFaulted: {task.IsFaulted}");
-        Console.WriteLine($"IsCanceled: {task.IsCanceled}");
+        Console.WriteLine($"IsCompleted: {task.IsCompleted}"); //Complete
+        Console.WriteLine($"IsFaulted: {task.IsFaulted}"); //Complete because Exception
+        Console.WriteLine($"IsCanceled: {task.IsCanceled}"); //Complete because CancellationToken
     }
 }

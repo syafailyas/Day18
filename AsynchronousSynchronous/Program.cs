@@ -4,13 +4,13 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static void Main()
+    static async void Main()
     {
         Console.WriteLine("Synchronous execution:");
         SynchronousExample();
 
         Console.WriteLine("\nAsynchronous execution:");
-        AsynchronousExample().Wait(); // Wait for the asynchronous example to complete
+        await AsynchronousExample(); // Wait for the asynchronous example to complete
     }
 
     static void SynchronousExample()
