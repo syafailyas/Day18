@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmJnIO7mXj1nTUKxNf924nX/aO9HxGZVtsUoABsXDvDBTq3MsWmIGcZpHlBaMS7+5A/J97IA3ANwyouwaWxRJw==",
+  "dgSpecHash": "rhbpHf/6jQB9I3i7H5mALU7f5fokQHAXIfS1udHIsqIoQY9oeJsj3NJW1UFIGjezd1pTmVIUUYS46Vrc7+k2vw==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
+  "projectFilePath": "/workspaces/Day18/RaceConditionThread/RaceConditionThread.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

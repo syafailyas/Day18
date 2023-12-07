@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+      "projectUniqueName": "/workspaces/Day18/AsynchronousSynchronous/AsynchronousSynchronous.csproj",
       "projectName": "AsynchronousSynchronous",
-      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\obj\\",
+      "projectPath": "/workspaces/Day18/AsynchronousSynchronous/AsynchronousSynchronous.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Day18/AsynchronousSynchronous/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }

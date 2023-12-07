@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lu8glF9mi8GWWSF7ziXWqqCYexzfeR3q6y2nfxZqZhnxNrQW7fCS+KjojDc0MialjcRiCFeohjPeJkQ9W0EpLQ==",
+  "dgSpecHash": "mIm64l1GHHCUdqQBkdwRre0ZNMl6IboBgN7X72Www087FDUmECe0u/CWtSzT4d9IVMa8nIME1lpAPv5VwLWXyQ==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+  "projectFilePath": "/workspaces/Day18/AsynchronousSynchronous/AsynchronousSynchronous.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

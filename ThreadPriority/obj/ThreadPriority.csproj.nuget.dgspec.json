@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {}
+    "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj": {
+    "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
+        "projectUniqueName": "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj",
         "projectName": "ThreadPriority",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\obj\\",
+        "projectPath": "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Day18/ThreadPriority/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
