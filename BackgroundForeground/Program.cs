@@ -5,11 +5,12 @@ namespace ForeGroundBackground
 {
 	public class Program
 	{
+		
 		static void Main(string[] args)
 		{
 			Thread thread1 = new Thread(Method1)
 			{
-				IsBackground = false
+				IsBackground = true
 			};
 			
 			Console.WriteLine($"Thread1 is a Background thread:  {thread1.IsBackground}");

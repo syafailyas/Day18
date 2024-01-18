@@ -6,7 +6,9 @@ public static class Program
 	public static void Main()
 	{
 		//Environment print
+		Console.WriteLine(Environment.ProcessorCount);
 		//ThreadId
+		Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
 		Console.WriteLine("Starting program.");
 		var stopwatch = new Stopwatch();
 		
@@ -20,9 +22,8 @@ public static class Program
 
 	public static void DoTaskOne()
 	{
-		//Environment print
-		//ThreadId
-		for(int i = 0; i < 100000; i++) 
+		Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+		for(int i = 0; i < 1000; i++) 
 		{
 			Console.Write('+');
 		}
@@ -30,9 +31,7 @@ public static class Program
 
 	public static void DoTaskTwo()
 	{
-		//Environment print
-		//ThreadId
-		for(int i = 0; i < 100000; i++) 
+		for(int i = 0; i < 1000; i++) 
 		{
 			Console.Write('-');
 		}

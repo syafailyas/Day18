@@ -27,12 +27,12 @@ namespace ThreadPoolApplication
 			stopwatch.Start();
 			MethodWithTask();
 			stopwatch.Stop();
-			Console.WriteLine("Time consumed by MethodWithTask is : " +
+			Console.WriteLine("Time consumed by MethodWithTask(threadBlock) is : " +
 								 stopwatch.ElapsedTicks.ToString());
 
 			stopwatch.Reset();
 
-			Console.WriteLine("Execution using Thread Pool");
+			Console.WriteLine("Execution using MethodWithTaskAsyncAwait");
 			stopwatch.Start();
 			MethodWithTaskAsyncAwait();
 			stopwatch.Stop();

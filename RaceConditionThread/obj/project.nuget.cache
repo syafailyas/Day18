@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rhbpHf/6jQB9I3i7H5mALU7f5fokQHAXIfS1udHIsqIoQY9oeJsj3NJW1UFIGjezd1pTmVIUUYS46Vrc7+k2vw==",
+  "dgSpecHash": "ESVCuwvjYylVbzw8RpNOxI9osR01xOftstTu0Y/TprdNTqSMaYzflLkQUbpxIDYIPIqTY3Q2jVz+IVjGMIoh1A==",
   "success": true,
-  "projectFilePath": "/workspaces/Day18/RaceConditionThread/RaceConditionThread.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\RaceConditionThread\\RaceConditionThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
