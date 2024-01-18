@@ -8,7 +8,7 @@ class Program
         Thread newThread = new Thread(PrintNumbers);
 
         newThread.Start();
-        
+
         Thread.Sleep(2000);
 
         Console.WriteLine($"Is newThread alive? {newThread.IsAlive}");
@@ -20,7 +20,6 @@ class Program
         newThread.Join();
 
         Console.WriteLine("Main thread continues.");
-        
     }
 
     static void PrintNumbers()

@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -58,6 +58,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadvsTaskvsAsyncAwait", "ThreadvsTaskvsAsyncAwait\ThreadvsTaskvsAsyncAwait.csproj", "{B48AF13B-7582-4752-9A5F-D0B44DAD8CDD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadExceptionvsTaskException", "ThreadExceptionvsTaskException\ThreadExceptionvsTaskException.csproj", "{28955EB4-718B-4230-BDA1-6298A30A9723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99Trial99", "99Trial99\99Trial99.csproj", "{2E965B97-02E5-4AC6-8925-16F4DD69DF1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -180,5 +182,9 @@ Global
 		{28955EB4-718B-4230-BDA1-6298A30A9723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28955EB4-718B-4230-BDA1-6298A30A9723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28955EB4-718B-4230-BDA1-6298A30A9723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E965B97-02E5-4AC6-8925-16F4DD69DF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E965B97-02E5-4AC6-8925-16F4DD69DF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E965B97-02E5-4AC6-8925-16F4DD69DF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E965B97-02E5-4AC6-8925-16F4DD69DF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

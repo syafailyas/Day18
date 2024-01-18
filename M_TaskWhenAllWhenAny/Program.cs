@@ -12,15 +12,17 @@ class Program
 
 		int[] results = await Task.WhenAll(tasks);
 
-
 		Console.WriteLine(string.Join(", ", results));
 
-		Task<int> t1 = Task.Run(() => MultiplyByTwoAsync(5));
+		Task<int> t1 = Task.Run( () => MultiplyByTwoAsync(5) );
+
 		await t1;
 	}
+
 	static async Task<int> MultiplyByTwoAsync(int number)
 	{
 		await Task.Delay(500);
+
 		return number * 2;
 	}
 }

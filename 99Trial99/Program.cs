@@ -9,12 +9,13 @@ class Program
 		Task<int> task = CalculateResultAsync();
 		task.GetAwaiter().OnCompleted(() => Console.WriteLine($"Result using GetAwaiter: {task.Result}"));
 
-        Console.ReadKey();
-    }
+		Console.ReadKey();
+	}
 
 	static async Task<int> CalculateResultAsync()
 	{
 		await Task.Delay(1000); // Simulate some asynchronous operation
+
 		return 488882; // Return the result
 	}
 }

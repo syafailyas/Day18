@@ -12,14 +12,14 @@ namespace ThreadPoolApplication
 				MethodWithTask();
 				MethodWithTaskAsyncAwait();
 			}
+
 			Stopwatch stopwatch = new Stopwatch();
 
 			Console.WriteLine("Execution using Thread");
 			stopwatch.Start();
 			MethodWithThread();
 			stopwatch.Stop();
-			Console.WriteLine("Time consumed by MethodWithThread is : " +
-								 stopwatch.ElapsedTicks.ToString());
+			Console.WriteLine( "Time consumed by MethodWithThread is : " + stopwatch.ElapsedTicks.ToString() );
 
 			stopwatch.Reset();
 
@@ -27,8 +27,7 @@ namespace ThreadPoolApplication
 			stopwatch.Start();
 			MethodWithTask();
 			stopwatch.Stop();
-			Console.WriteLine("Time consumed by MethodWithTask(threadBlock) is : " +
-								 stopwatch.ElapsedTicks.ToString());
+			Console.WriteLine( "Time consumed by MethodWithTask(threadBlock) is : " + stopwatch.ElapsedTicks.ToString() );
 
 			stopwatch.Reset();
 
@@ -36,31 +35,33 @@ namespace ThreadPoolApplication
 			stopwatch.Start();
 			MethodWithTaskAsyncAwait();
 			stopwatch.Stop();
-			Console.WriteLine("Time consumed by MethodWithTaskAsyncAwait is : " +
-								 stopwatch.ElapsedTicks.ToString());
+			Console.WriteLine("Time consumed by MethodWithTaskAsyncAwait is : " + stopwatch.ElapsedTicks.ToString() );
 
 			Console.Read();
-
 		}
 
 		private static void MethodWithTask()
 		{
 			Task[] myAllTask = new Task[10];
+
 			for (int i = 0; i < 10; i++)
 			{
-				myAllTask[i] = Task.Run(() => Test());
+				myAllTask[i] = Task.Run( () => Test() );
 			}
+
 			Task.WaitAll(myAllTask);
 		}
 
 		public static void MethodWithThread()
 		{
 			Thread[] myAllThread = new Thread[10];
+
 			for (int i = 0; i < 10; i++)
 			{
 				myAllThread[i] = new Thread(Test);
 				myAllThread[i].Start();
 			}
+
 			myAllThread[0].Join();
 			myAllThread[1].Join();
 			myAllThread[2].Join();
@@ -77,16 +78,15 @@ namespace ThreadPoolApplication
 		{
 
 			Task[] myAllTask = new Task[10];
+
 			for (int i = 0; i < 10; i++)
 			{
 				myAllTask[i] = Task.Run(() => Test());
 			}
+
 			await Task.WhenAll(myAllTask);
 		}
 
-		public static void Test()
-		{
-
-		}
+		public static void Test() { }
 	}
 }

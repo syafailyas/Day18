@@ -5,8 +5,10 @@ class Program
 {
 	static async Task Main()
 	{
-		Task result = Task.Run(() => AddAsync(3, 4));
+		Task result = Task.Run( () => AddAsync(3, 4) );
+
 		await result;
+
 		Console.WriteLine($"Result: {result}");
 	}
 
@@ -14,7 +16,6 @@ class Program
 	{
 		// Simulate an asynchronous operation
 		await Task.Delay(1000);
-
-		//return a + b;
+		// return a + b;
 	}
 }

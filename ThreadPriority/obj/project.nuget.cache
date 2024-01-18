@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9rI3QZQlGfZ2eAncHSfol/pL/il4V0diJy2VlnOHVUfAE35nyOxEBUBgcE2lRdZxM0j4gliIRCXkZf4PhPOvQ==",
+  "dgSpecHash": "QZhmtt40djSaccIpLUBI7/5d4z41nQ1J86cUZoAFskqmSye8NFibjZsfPHFYN0mEmwEeWNzANEwTBSdF3fOPXw==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\ThreadPriority\\ThreadPriority.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

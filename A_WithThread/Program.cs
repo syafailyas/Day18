@@ -5,15 +5,19 @@ using System.Threading;
 public static class Program
 {
 	public static int x;
+
 	public static void Main()
 	{
 		Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
 		Console.WriteLine("Starting program.");
+
 		var stopwatch = new Stopwatch();
+
 		stopwatch.Start();
 
-		Thread thread1 = new Thread(DoTaskOne); //+
-		Thread thread2 = new Thread(DoTaskTwo); //-
+		Thread thread1 = new Thread(DoTaskOne); // +
+		Thread thread2 = new Thread(DoTaskTwo); // -
+
 		thread1.Start();
 		thread2.Start();
 		thread1.Join();
@@ -26,7 +30,9 @@ public static class Program
 	public static void DoTaskOne()
 	{
 		x++;
+
 		Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+
 		for(int i = 0; i < 200; i++) 
 		{
 			Console.Write('+');
@@ -36,7 +42,9 @@ public static class Program
 	public static void DoTaskTwo()
 	{
 		x--;
+
 		Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+
 		for(int i = 0; i < 200; i++) 
 		{
 			Console.Write('-');

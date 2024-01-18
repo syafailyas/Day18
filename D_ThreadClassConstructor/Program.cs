@@ -5,18 +5,14 @@ class Program
 {
 	static void Main()
 	{
-
 		Thread t0 = new Thread(DoWorkSimple);
 		t0.Start();
-		
-		
+
 		Thread t1 = new Thread(new ThreadStart(DoWorkSimple));
 		t1.Start();
 
-
 		Thread t2 = new Thread(new ParameterizedThreadStart(DoWorkWithParameter));
 		t2.Start("parameter");
-
 
 		Thread t3 = new Thread(new ThreadStart(DoWorkSimple), 1024 * 1024 ); // 1 MB stack size
 		t3.Start();
@@ -25,13 +21,12 @@ class Program
 		t4.Name = "Named Thread";
 		t4.Start();
 
-
 		Thread t5 = new Thread( () => DoWorkWithParameter("parameter2")); //lambda expression
 		t5.Start();
 
 		Thread t6 = new Thread(DoWorkWithParameter);
 		t6.Start("parameter23");
-		
+
 		Thread t7 = new Thread(DoWorkWithParameter);
 		t7.Start("parameter233");
 	}

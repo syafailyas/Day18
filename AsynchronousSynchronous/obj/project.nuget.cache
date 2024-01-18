@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+j+VPdzY9b50J4fQ2kYvwNTV/irQ7Qa3jx2xah/4G8HS9OMO0k+uN5tgGyPrYsCeDzF2Seny9MPr7+bbfn9h2Q==",
+  "dgSpecHash": "L6Jp4dYBI+cJ3ONK1gYNNkKXpZaxGrvntBbkZPQijyZM2PJThTS3z6wJzXBeqLIB7PD64sSV6VLzMqzNYr0smA==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,11 +7,14 @@ public static class Program
 	public static void Main()
 	{
 		Console.WriteLine("Starting program.");
+
 		var stopwatch = new Stopwatch();
+
 		stopwatch.Start();
 
 		Console.WriteLine("Core :" + Environment.ProcessorCount);
 		Console.WriteLine("Main Thread:" + Thread.CurrentThread.ManagedThreadId);
+
 		Thread thread1 = new Thread(DoTaskOne);
 		Thread thread2 = new Thread(DoTaskTwo);
 		Thread thread3 = new Thread(DoTaskOne);
