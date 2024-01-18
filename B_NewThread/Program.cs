@@ -1,29 +1,50 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Threading;
 
-static class Program
+public static class Program
 {
-	static void Main()
+	public static void Main()
 	{
-		int result; //nampung
-		int x = 3; //kirim
-		int y = 4; //kirim
-		Thread myThread = new Thread(() =>
-		{
-			result = Add(x, y);
-		});
-		myThread.Start();
+		Console.WriteLine("Starting program.");
+		var stopwatch = new Stopwatch();
+		stopwatch.Start();
+
+		Console.WriteLine("Core :" + Environment.ProcessorCount);
+		Console.WriteLine("Main Thread:" + Thread.CurrentThread.ManagedThreadId);
+		Thread thread1 = new Thread(DoTaskOne);
+		Thread thread2 = new Thread(DoTaskTwo);
+		Thread thread3 = new Thread(DoTaskOne);
+		Thread thread4 = new Thread(DoTaskTwo);
+		
+		thread1.Start();
+		thread2.Start();
+		thread3.Start();
+		thread4.Start();
+		
+		thread1.Join();
+		thread2.Join();
+		thread3.Join();
+		thread4.Join();
+
+		stopwatch.Stop();
+
+		Console.WriteLine($"\nProgram complete. Elapsed time: {stopwatch.ElapsedMilliseconds}ms");
 	}
 
-	static void PrintNumbers(int value)
+	public static void DoTaskOne()
 	{
-		for (int i = 1; i <= 5; i++)
+		for(int i = 0; i < 100; i++) 
 		{
-			Console.WriteLine($"Thread: {i}");
-			Thread.Sleep(1000);
+			Thread.Sleep(1);
 		}
 	}
-	static int Add(int value, int value2 ) {
-		return value + value2;
+
+	public static void DoTaskTwo()
+	{
+		for(int i = 0; i < 100; i++) 
+		{
+			Thread.Sleep(1);
+		}
 	}
 }
