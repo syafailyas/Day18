@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj": {}
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj": {
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj",
         "projectName": "RaceConditionThread",
-        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj",
+        "projectPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\RaceConditionThread.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\obj\\",
+        "outputPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\RaceConditionThread\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"

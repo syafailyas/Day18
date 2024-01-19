@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj": {}
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj": {
+    "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj",
         "projectName": "ThreadPriority",
-        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj",
+        "projectPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\ThreadPriority.csproj",
         "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\obj\\",
+        "outputPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day18\\ThreadPriority\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"

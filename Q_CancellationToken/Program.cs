@@ -13,23 +13,31 @@ if (Console.ReadKey().KeyChar == 'c')
 try
 {
 	await task;
-
-	Console.WriteLine("Operation completed.");
 }
 
 catch (OperationCanceledException)
 {
-	Console.WriteLine("Operation canceled.");
+	if (token.IsCancellationRequested)
+	{
+		Console.WriteLine("Operation canceled.");
+	}
+
+	Console.WriteLine("Operation completed.");
 }
 
 static async Task DoWorkAsync(CancellationToken token)
 {
 	for (int i = 0; i < 10; i++)
 	{
-		token.ThrowIfCancellationRequested();
+		if(token.IsCancellationRequested)
+		{
+			return;
+		}
+
+		// token.ThrowIfCancellationRequested();
 
 		Console.WriteLine($"Work in progress: {i * 10}%");
 
-		await Task.Delay(20000,token);
+		await Task.Delay(2000, token);
 	}
 }
